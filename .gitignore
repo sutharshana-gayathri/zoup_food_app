@@ -1,0 +1,12 @@
+# Node.js (food_backend)
+node_modules/
+.env
+
+# Flutter (food)
+build/
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+.pub/ 

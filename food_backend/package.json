@@ -1,0 +1,22 @@
+{
+  "name": "food_backend",
+  "version": "1.0.0",
+  "description": "Backend for food_app with Express, Mongoose, and dotenv",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server.js",
+    "start:prod": "node server.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.5.0",
+    "express": "^4.21.1",
+    "mongodb": "^6.15.0",
+    "mongoose": "^8.7.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.7"
+  },
+  "author": "Your Name",
+  "license": "MIT"
+}
